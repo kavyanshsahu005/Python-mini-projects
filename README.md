@@ -14,7 +14,7 @@ A collection of beginner-friendly Python projects built while learning and explo
 
 | # | Project | Description |
 |---|---|---|
-| 01 |[Number Guessing Game] | Simple number guessing game |
+| 01 |[Number Guessing Game](https://github.com/kavyanshsahu005/Python-mini-projects/blob/main/Number-Guessing.py) | Simple number guessing game |
 | 02 | Password Generator | Generates random passwords |
 | 03 | Todo List | CLI-based task manager |
 | 04 | File Organizer | Organizes files by extension |
